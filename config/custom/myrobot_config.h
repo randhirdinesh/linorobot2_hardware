@@ -95,7 +95,7 @@
 #define AGENT_IP { 192, 168, 136, 77 }  // eg IP of the desktop computer
 #define AGENT_PORT 8888
 // Enable WiFi with null terminated list of multiple APs SSID and password
-#define WIFI_AP_LIST {{"inflab", "infinity@123"}, {NULL}}
+#define WIFI_AP_LIST {{"randhir", "randhir@123"}, {NULL}}
 #define WIFI_MONITOR 2 // min. period to send wifi signal strength to syslog
 // #define USE_ARDUINO_OTA
 #define USE_SYSLOG
